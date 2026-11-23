@@ -1,0 +1,23 @@
+{
+  "manifestVersion": 1,
+  "id": "remnote-page-strip",
+  "name": "Page Strip - Thumbnails and Bookmarks",
+  "author": "mdeguzis",
+  "description": "A page thumbnail strip beside PDF and HTML documents, like a desktop PDF viewer. Click a page to jump to it, and bookmark the pages you keep coming back to.",
+  "repoUrl": "https://github.com/mdeguzis/remnote-page-strip",
+  "projectUrl": "https://github.com/mdeguzis/remnote-page-strip",
+  "supportUrl": "https://github.com/mdeguzis/remnote-page-strip/issues",
+  "version": {
+    "major": 0,
+    "minor": 1,
+    "patch": 0
+  },
+  "enableOnMobile": false,
+  "requestNative": true,
+  "requiredScopes": [
+    {
+      "type": "All",
+      "level": "Read"
+    }
+  ]
+}
